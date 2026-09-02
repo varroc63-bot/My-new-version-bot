@@ -770,6 +770,4 @@ if __name__ == "__main__":
     except ImportError:
         log.info("uvloop not found. For absolute maximum speed run: pip install uvloop")
     
-    asyncio.run(main())tall uvloop")
-    
     asyncio.run(main())
