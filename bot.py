@@ -59,8 +59,8 @@ BOT_NAME = "🌟 L I N U X   B H A I   A U T O   B O T 🌟"
 # ============================
 # FORCE JOIN CHANNEL
 # ============================
-CHANNEL_USERNAME = "@LINUXBHAI001"
-CHANNEL_URL = "https://t.me/linuxbhai001"
+CHANNEL_USERNAME = "@Kotlinbhai1"
+CHANNEL_URL = "https://t.me/Kotlinbhai1"
 
 # ============================
 # USER CONFIG
